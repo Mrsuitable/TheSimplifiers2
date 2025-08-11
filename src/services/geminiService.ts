@@ -1,3 +1,4 @@
+// Ensure you have VITE_API_KEY set in your environment (e.g., .env)
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
 if (!import.meta.env.VITE_API_KEY) {
