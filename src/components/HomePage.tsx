@@ -69,7 +69,7 @@ const HomePage: React.FC<HomePageProps> = ({ onExploreClick }) => {
             <div className="relative w-56 h-72 md:w-64 md:h-80 rounded-2xl shadow-2xl shadow-black/40 transition-transform duration-500 group-hover:transform-gpu group-hover:-rotate-y-6 group-hover:scale-105">
                 <div className="absolute -inset-1 bg-gradient-to-br from-orange-400 via-fuchsia-500 to-sky-400 rounded-2xl opacity-60 group-hover:opacity-100 transition-opacity duration-500 blur-md group-hover:blur-lg"></div>
                 <div className="relative w-full h-full p-1.5">
-                    <img src="/pic.jpg" alt="Founder on a boat" className="w-full h-full object-cover rounded-xl" />
+                    <img src="https://i.ibb.co/Fq0QSWQB/pic.jpg" alt="Founder on a boat" className="w-full h-full object-cover rounded-xl" />
                     
                 </div>
             </div>
