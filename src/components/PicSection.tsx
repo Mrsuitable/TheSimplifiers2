@@ -9,7 +9,7 @@ const PicSection: React.FC = () => {
             gradient: "from-sky-400 via-fuchsia-500 to-orange-400"
         },
         {
-            src: "/pic.jpg",
+            src: "https://i.ibb.co/Fq0QSWQB/pic.jpg",
             alt: "Founder sitting in a rowboat on a lake",
             caption: "Embracing the Journey",
             gradient: "from-orange-400 via-fuchsia-500 to-sky-400"
