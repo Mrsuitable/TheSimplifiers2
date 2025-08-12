@@ -3,7 +3,7 @@ import React from 'react';
 const PicSection: React.FC = () => {
     const images = [
         {
-            src: "/jentih.jpg",
+            src: "https://i.ibb.co/qXdyzQS/jentih.jpg",
             alt: "Founder at a desk with a computer",
             caption: "Founder at Desk",
             gradient: "from-sky-400 via-fuchsia-500 to-orange-400"
